@@ -1,1 +1,1 @@
-# SalesPredictions
+# Project1, part1
