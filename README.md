@@ -47,13 +47,13 @@ Linear Regression Model (Testing Set):
 
 *Deciion Tree Regressor Model (Testing Set):
 - R^2: .18
-- RMSE: 1503.59
+- RMSE: 1499.55
 
 *Tuned Decision Tree Regressor Model (Testing Set):
 - R^2: .59
 - RMSE:1057.44
 
-* The Final Model Chose was the tuned decision tree with a tuned max_depth of 5.
+* The Final Model Chosen was the tuned decision tree with a tuned max_depth of 5.
 * For the testing set on that model, 59% of the variance in y was explained by x.
 *The root mean squared error had a calculation of 1057.44.
 
